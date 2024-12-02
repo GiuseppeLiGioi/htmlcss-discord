@@ -59,7 +59,9 @@ header {
     text-align: center;
     margin: 1%;
 }
-
+.text2{
+    color: white;
+}
 .container1-flex {
     display: flex;
 
